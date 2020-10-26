@@ -482,9 +482,9 @@ strong[tabindex="-1"] {
 }
 
 .rm-embed-inner-block-hide {
-  /* margin       : 2px 2px 2px 4px !important; */
+  margin       : 2px 2px 2px 4px !important;
   background   : var(--kanban-column-background) !important;
-  /* padding      : 3px !important; */
+  padding      : 3px !important;
   border-radius: 5px;
   box-shadow   : 0 0 2px 1px var(--references);
 }
