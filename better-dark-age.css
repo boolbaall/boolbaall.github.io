@@ -488,12 +488,14 @@ strong[tabindex="-1"] {
   box-shadow   : 0 0 2px 1px var(--references);
 }
 
+/*
 .rm-embed-inner-block-hide:before {
   content     : "Block Embed";
   color       : var(--block-reference-text);
   padding-left: 20px !important;
   font-weight : 500 !important;
 }
+*/
 
 .rm-embed-inner-block-hide .flex-v-box.roam-block-container.block-bullet-view {
   margin: 0 !important;
