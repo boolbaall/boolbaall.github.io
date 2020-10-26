@@ -467,12 +467,10 @@ strong[tabindex="-1"] {
 }
 
 /* Block embed */
-/*
 .rm-embed-container {
   padding    : 0 !important;
   margin-left: -20px !important;
 }
-*/
 
 .rm-embed-container:hover > .rm-embed-edit {
   right: 6px;
