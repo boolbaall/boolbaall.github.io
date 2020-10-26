@@ -109,6 +109,7 @@ span[style*="color: red"] {
   border-radius     : 5px !important;
   padding-top       : 2px !important;
   padding-bottom    : 4px !important;
+  background-color  : var(--kanban-column-background) !important;
 }
 
 .rm-block-ref:hover {
