@@ -113,7 +113,7 @@ span[style*="color: red"] {
 }
 
 .rm-block-ref:hover {
-  background-color: var(--kanban-card-background) !important;
+  background-color: var(--dropdown-menu-background) !important;
   transition      : color 0.3s ease;
 }
 
