@@ -467,20 +467,24 @@ strong[tabindex="-1"] {
 }
 
 /* Block embed */
+/*
 .rm-embed-container {
   padding    : 0 !important;
   margin-left: -20px !important;
 }
-
+*/
+/*
 .rm-embed-container:hover > .rm-embed-edit {
   right: 6px;
 }
-
+*/
+/*
 .rm-embed-edit {
   margin : 0 !important;
   z-index: 1000;
 }
-
+*/
+/*
 .rm-embed-inner-block-hide {
   margin       : 2px 2px 2px 4px !important;
   background   : var(--kanban-column-background) !important;
@@ -488,7 +492,7 @@ strong[tabindex="-1"] {
   border-radius: 5px;
   box-shadow   : 0 0 2px 1px var(--references);
 }
-
+*/
 /*
 .rm-embed-inner-block-hide:before {
   content     : "Block Embed";
@@ -497,11 +501,11 @@ strong[tabindex="-1"] {
   font-weight : 500 !important;
 }
 */
-
+/*
 .rm-embed-inner-block-hide .flex-v-box.roam-block-container.block-bullet-view {
   margin: 0 !important;
 }
-
+*/
 /* Namespace text color [[roam/css]] when using CTRL+C CTRL+L || CMD+C CMD+L */
 
 .rm-page-ref-namespace-color {
