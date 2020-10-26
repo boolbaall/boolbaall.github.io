@@ -497,11 +497,11 @@ strong[tabindex="-1"] {
   font-weight : 500 !important;
 }
 */
-/*
+
 .rm-embed-inner-block-hide .flex-v-box.roam-block-container.block-bullet-view {
   margin: 0 !important;
 }
-*/
+
 /* Namespace text color [[roam/css]] when using CTRL+C CTRL+L || CMD+C CMD+L */
 
 .rm-page-ref-namespace-color {
